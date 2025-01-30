@@ -1,0 +1,15 @@
+# Ignore node_modules
+/node_modules
+
+# Ignore logs
+*.log
+
+# Ignore the .env file (if you use environment variables)
+.env
+
+# Ignore system files (macOS)
+.DS_Store
+
+# Ignore the IDE/editor files (e.g., VS Code)
+.vscode/
+.idea/
