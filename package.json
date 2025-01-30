@@ -2,5 +2,15 @@
   "dependencies": {
     "chalk": "^5.4.1"
   },
-  "type": "module"
+  "type": "module",
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "Hillel School - QA Course",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viktor Shmatko",
+  "license": "ISC"
 }
