@@ -10,6 +10,6 @@ const user = {
   age: 18
 }
 
-const EnoughtOldPerson = user.age >= 18;
+const EnoughOldPerson = user.age >= 18;
 
-console.log(`Is ${user.name} ${user.surname} full age? `, EnoughtOldPerson ? "Yes, he is" : "No, he isn't");
+console.log(`Is ${user.name} ${user.surname} full age? `, EnoughOldPerson ? "Yes, he is" : "No, he isn't");
