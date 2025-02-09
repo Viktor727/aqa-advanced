@@ -1,4 +1,4 @@
-const averageGrade = 91;
+const averageGrade = 200;
 
 const scoreDetect = (score) => {
     switch (true) {
@@ -23,7 +23,7 @@ const scoreDetect = (score) => {
         break;
 
       default:
-      // code block
+      console.log("Ваші дані перевищують межі більше 1 та менше 100. \nВведіть дані більші за 1 та менші за 100");
     }
 }
 
