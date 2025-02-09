@@ -10,10 +10,9 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run task1": "node jsBasics/task1.js",
-    "run task2": "node jsBasics/task2.js",
-    "run task3": "node jsBasics/task3.js",
-    "run task4": "node jsBasics/task4.js"
+    "run task1": "node homework-5/task-1.js",
+    "run task2": "node homework-5/task-2.js",
+    "run task3": "node homework-5/task-3.js"
   },
   "author": "Viktor Shmatko",
   "license": "ISC"
