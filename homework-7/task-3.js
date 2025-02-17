@@ -1,6 +1,6 @@
 const divide = (numerator, denominator) => {
     if (denominator === 0 || typeof numerator !== 'number' || typeof denominator !== 'number') {
-        return "Помилка";
+        throw new Error("Помилка");
     } else {
         return numerator / denominator;
     }
