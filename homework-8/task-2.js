@@ -1,8 +1,5 @@
 const array = [1, 2, 3, 4, 5];
-let newArray = []
 
-array.map((element, i) => {
-  newArray.push(element * i)
-});
+const newArray = array.map((element, i) => element * i) 
 
 console.log(newArray);
